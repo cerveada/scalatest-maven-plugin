@@ -132,7 +132,7 @@
       </plugin>
       <!-- enable scalatest -->
       <plugin>
-        <groupId>org.scalatest</groupId>
+        <groupId>com.github.cerveada</groupId>
         <artifactId>scalatest-maven-plugin</artifactId>
         <executions>
           <execution>
@@ -147,7 +147,7 @@
   <reporting>
     <plugins>
       <plugin>
-        <groupId>org.scalatest</groupId>
+        <groupId>com.github.cerveada</groupId>
         <artifactId>scalatest-maven-plugin</artifactId>
       </plugin>
     </plugins>

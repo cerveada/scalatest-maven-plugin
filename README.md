@@ -1,6 +1,8 @@
 ScalaTest Maven Plugin
 ======================
 
+Fork of ScalaTest Maven Plugin for early release of Java 11 compatible version until the official one is ready.
+
 Building ScalaTest Maven Plugin
 -------------------------------
 

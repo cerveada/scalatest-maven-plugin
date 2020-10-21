@@ -32,7 +32,7 @@
   <build>
     <plugins>
       <plugin>
-        <groupId>org.scalatest</groupId>
+        <groupId>com.github.cerveada</groupId>
         <artifactId>maven-scalatest-plugin</artifactId>
       </plugin>
     </plugins>
