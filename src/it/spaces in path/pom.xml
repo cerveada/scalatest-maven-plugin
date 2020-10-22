@@ -69,7 +69,7 @@
       </plugin>
       <!-- enable scalatest -->
       <plugin>
-        <groupId>org.scalatest</groupId>
+        <groupId>com.github.cerveada</groupId>
         <artifactId>scalatest-maven-plugin</artifactId>
         <configuration>
           <logForkedProcessCommand>true</logForkedProcessCommand>
@@ -87,7 +87,7 @@
   <reporting>
     <plugins>
       <plugin>
-        <groupId>org.scalatest</groupId>
+        <groupId>com.github.cerveada</groupId>
         <artifactId>scalatest-maven-plugin</artifactId>
       </plugin>
     </plugins>
